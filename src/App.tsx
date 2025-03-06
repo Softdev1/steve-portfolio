@@ -49,10 +49,10 @@ function App() {
             <div className="mt-8 md:mt-0">
               <div className="bg-white p-4 rounded-lg shadow-lg text-gray-800">
                 <div className="mb-2">
-                  <span className="font-semibold">Email:</span> <a href="mailto:ogbajestephen2@gmail.com" className="text-blue-600 hover:underline">ogbajestephen2@gmail.com</a>
+                  <span className="font-semibold">Email:</span> <a href="mailto:ogbajestephen94@gmail.com" className="text-blue-600 hover:underline">ogbajestephen94@gmail.com</a>
                 </div>
                 <div className="mb-2">
-                  <span className="font-semibold">Phone:</span> <a href="tel:+2348108359089" className="text-blue-600 hover:underline">(+234) 8108359089</a>
+                  <span className="font-semibold">Phone:</span> <a href="tel:+2348108369089" className="text-blue-600 hover:underline">(+234) 8108369089</a>
                 </div>
                 <div>
                   <span className="font-semibold">Location:</span> Lagos, Nigeria
@@ -188,7 +188,18 @@ function App() {
               </div>
               <p className="mb-2">Delivered a keynote on cryptocurrency's role in financial inclusion and economic transformation.</p>
             </div>
-            
+            <div className="bg-gray-50 rounded-lg shadow-md p-6 mb-6">
+              <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-4">
+                <div>
+                  <h3 className="text-xl font-bold">Future of Work :University of Accra,Ghana</h3>
+                  <p className="text-lg italic">Speaker and Hackathon Judge</p>
+                </div>
+                <div className="mt-2 md:mt-0">
+                  <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm">March 2025</span>
+                </div>
+              </div>
+              <p className="mb-2">Delivered a talk on the Academia and industry in Ghana and also was part of the Judges for the hackathon competition.</p>
+            </div>
             <div className="bg-gray-50 rounded-lg shadow-md p-6">
               <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-4">
                 <div>
@@ -276,7 +287,7 @@ function App() {
                   <li>Implemented agile methodologies to optimize workflow, ensuring adaptability and focus on delivering customer-centric solutions</li>
                 </ul>
                 <div className="mt-4">
-                  <a href="https://www.ubamerica.com/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline flex items-center">
+                  <a href="https://www.ubaamerica.com/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline flex items-center">
                     Visit Website <ExternalLink size={16} className="ml-1" />
                   </a>
                 </div>
@@ -482,7 +493,7 @@ function App() {
                 <span className="text-blue-600 mr-2"><Code size={24} /></span>
                 Blockchain Technologies
               </h3>
-              <p>Polygon, IPFS</p>
+              <p>solidity,IPFS</p>
             </div>
             
             <div className="bg-gray-50 rounded-lg shadow-md p-6">
@@ -490,7 +501,7 @@ function App() {
                 <span className="text-blue-600 mr-2"><User size={24} /></span>
                 Languages
               </h3>
-              <p>English, Yoruba</p>
+              <p>English, Yoruba,Igbo</p>
             </div>
           </div>
         </div>
