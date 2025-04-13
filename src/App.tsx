@@ -370,7 +370,7 @@ function App() {
               <div className="text-blue-600 mb-4">
                 <PenTool size={32} />
               </div>
-              <h3 className="text-xl font-semibold mb-2">Odoo</h3>
+              <h3 className="text-xl font-semibold mb-2">Clickup</h3>
               <p className="text-gray-600">For integrated business management and ERP solutions</p>
             </div>
             
@@ -381,6 +381,14 @@ function App() {
               <h3 className="text-xl font-semibold mb-2">Aha!</h3>
               <p className="text-gray-600">For product roadmapping and strategic planning</p>
             </div>
+            <div className="bg-gray-50 p-6 rounded-lg shadow-md hover:shadow-lg transition">
+              <div className="text-blue-600 mb-4">
+                <PenTool size={32} />
+              </div>
+              <h3 className="text-xl font-semibold mb-2">Notion</h3>
+              <p className="text-gray-600">For product roadmapping and strategic planning</p>
+            </div>
+            
             
             <div className="bg-gray-50 p-6 rounded-lg shadow-md hover:shadow-lg transition">
               <div className="text-blue-600 mb-4">
@@ -599,7 +607,7 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-4 md:mb-0">
               <h3 className="text-xl font-bold">OGBAJE Stephen A.</h3>
-              <p>Technical Product Manager</p>
+              <p> Senior Product Manager</p>
             </div>
             <div className="flex space-x-4">
               <a href="https://x.com/iamsirsteve" target="_blank" rel="noopener noreferrer" className="hover:text-blue-400 transition">
