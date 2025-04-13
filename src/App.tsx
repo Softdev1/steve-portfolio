@@ -31,8 +31,8 @@ function App() {
         <div className="container mx-auto px-4 py-16 md:py-24">
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="md:w-2/3">
-              <h1 className="text-4xl md:text-5xl font-bold mb-4">OGBAJE Stephen A.</h1>
-              <h2 className="text-xl md:text-2xl mb-6">Technical Product Manager</h2>
+              <h1 className="text-4xl md:text-5xl font-bold mb-4">OGBAJE  A.</h1>
+              <h2 className="text-xl md:text-2xl mb-6">Senior Product Manager</h2>
               <p className="text-lg mb-8">Building innovative products with a focus on blockchain technology and digital transformation.</p>
               <div className="flex space-x-4">
                 <a href="https://x.com/iamsirsteve" target="_blank" rel="noopener noreferrer" className="bg-white text-blue-900 p-2 rounded-full hover:bg-blue-100 transition">
@@ -232,10 +232,10 @@ function App() {
               </div>
             </div>
             <ul className="list-disc pl-5 space-y-2">
-              <li>Successfully spearheaded the launch of IQ.wiki, the largest blockchain encyclopedia on the Polygon blockchain</li>
+              <li>Successfully launch of IQ.wiki, the largest blockchain encyclopedia on the Polygon blockchain</li>
               <li>Led the prioritization of the product backlog and shipped over 60% of customer's requests within 9 months</li>
               <li>Directed a talented product team through the intricate software development life cycle</li>
-              <li>Pioneered the introduction of IQ.opt, an AI-powered search engine specializing in cryptocurrency and blockchain</li>
+              <li>Pioneered the introduction of IQ.t, an AI-powered search engine specializing in cryptocurrency and blockchain</li>
             </ul>
             <div className="mt-4">
               <a href="https://iq.wiki" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline flex items-center">
